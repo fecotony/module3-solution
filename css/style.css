@@ -1,0 +1,36 @@
+#main-nav{
+    background-color: gray;
+}
+
+#logo{
+    color: #000000;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#content-container{
+    background-color: rgb(170, 169, 169);
+    margin-top: 40px;
+    padding: 20px;
+}
+
+#toggle-icon{
+    background-color: black;
+}
+
+#main-title{
+    margin-top: 20px;
+}
+
+#main-ul{
+    height: 240px;
+    width: 100%;
+}
+
+.nav-link{
+    color: black;
+    font-size: 35px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid black;
+}
